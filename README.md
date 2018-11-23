@@ -1,4 +1,4 @@
-# XIn-GameBooster
+# Xin-GameBooster
 
 Tools-backup
 
