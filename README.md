@@ -1,7 +1,7 @@
 # Xin-GameBooster
 
 Tools backup for the following blog post (in Chinese):
-	
+	[I'm an inline-style link](https://www.google.com)
 	[https://shuspieler.com/blog/1072/](https://shuspieler.com/blog/1072/) 
 
 
