@@ -1,7 +1,8 @@
 # Xin-GameBooster
 
 Tools backup for the following blog post (in Chinese):
-	[https://shuspieler.com/blog/1072/](https://shuspieler.com/blog/1072/) 
+
+[https://shuspieler.com/blog/1072/](https://shuspieler.com/blog/1072/) 
 	
 Architecture:
 
