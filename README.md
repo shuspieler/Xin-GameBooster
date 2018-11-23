@@ -1,6 +1,6 @@
 # Xin-GameBooster
 
-Tools backup for the Blog bellow (in Chinese):
+Tools backup for the following blog post (in Chinese):
 	
 	https://shuspieler.com/blog/1072/ 
 
