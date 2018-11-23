@@ -2,8 +2,10 @@
 
 Tools-backup
 
+Architecture:
+
 	Server:
-		ShadowsocksR-Python (Multi-user)
+		ShadowsocksR-Python (Multi-user version)
 		ss-panel v2 
 		Apache
 		MySQL
